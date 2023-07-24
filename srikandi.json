@@ -68,31 +68,17 @@
   "categories": [
     {
       "id": 1,
-      "name": "Mobil SPort",
-      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodmobilsport.balapmajujalanbussid/main/offroad%20%20fitur.png"
+      "name": "Livery Srikandi",
+      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodliverybus.srikandimajujalanbussid/main/srikandi%20%20fitur.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Mobil SPort",
-      "title": "Kumpulan Mod Mobil Sport 1",
-      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodmobilsport.balapmajujalanbussid/main/offroad%20%20fitur.png",
+      "category": "Livery Srikandi",
+      "title": "Kumpulan Livery Bus Srikandi Lengkap 1",
+      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodliverybus.srikandimajujalanbussid/main/srikandi%20%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/com.inimodmobilsport.balapmajujalanbussid/main/sport1.html",
-      "video": ""
-    },{
-      "id": 2,
-      "category": "Mobil SPort",
-      "title": "Kumpulan Mod Mobil Sport 2",
-      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodmobilsport.balapmajujalanbussid/main/offroad%20%20fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/com.inimodmobilsport.balapmajujalanbussid/main/sport2.html",
-      "video": ""
-    },{
-      "id": 3,
-      "category": "Mobil SPort",
-      "title": "Kumpulan Mod Mobil Sport 3",
-      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodmobilsport.balapmajujalanbussid/main/offroad%20%20fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/com.inimodmobilsport.balapmajujalanbussid/main/sport3.html",
       "video": ""
     }
 		
